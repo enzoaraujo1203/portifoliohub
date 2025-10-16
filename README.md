@@ -10,5 +10,5 @@ O objetvo é mostrar minha evolução acadêmica e profissional na área de tecn
 -Cusos complementares: Operador de Microcomputador.
 
 # Contato 
-- [Linkedin](https://www.linkedin.com/in/enzo-ara%C3%BAjo-578b77373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- [Gmail] (enzo.araujo@sempreceub.com)
+- [Linkedin](https://www.linkedin.com/in/enzo-ara%C3%BAjo-578b77373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
+- [Gmail](enzoreis120307@gmail.com).
